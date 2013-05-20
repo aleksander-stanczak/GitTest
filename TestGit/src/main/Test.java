@@ -10,6 +10,8 @@ public class Test {
 		System.out.println("Hello");
 		
 		System.out.println("Modifications2");
+		
+		System.out.println("Testing commits in remote repo");
 	}
 
 }
